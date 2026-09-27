@@ -16,6 +16,14 @@ browser via Streamlit.
   or 7-day rolling averages (health), per-100k normalization
 - **Export** — download the filtered slice as CSV
 
+## Example outputs
+
+Rendered from the bundled sample datasets:
+
+![NOVA close with moving averages](docs/dash-stocks.png)
+![Weekly avg new cases by region](docs/dash-health.png)
+![Stock KPI summary](docs/dash-kpis.png)
+
 ## Quickstart
 
 ```bash
