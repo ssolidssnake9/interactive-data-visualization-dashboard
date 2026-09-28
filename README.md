@@ -1,3 +1,5 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ssolidssnake9/interactive-data-visualization-dashboard)
+
 # Interactive Data Visualization Dashboard
 
 Turn raw datasets into consumer insights: KPI cards, interactive trend
